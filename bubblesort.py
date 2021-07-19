@@ -1,3 +1,10 @@
+"""
+This is the code for a simple
+bubble sort of an array
+which prints out each step of the array sorting itself
+"""
+
+
 def BubbleSort(array):
     swap = "yes"
     while swap == "yes":
